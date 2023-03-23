@@ -1,14 +1,23 @@
-About Me 🏻 :
-👩🏻‍💻 Pronouns: He/Him
+Hello, I'm Ahmeda Farhin
+A passionate Frontend Web Developer
+coding
 
-💼 Upcoming Software Developer.
+afarhin
 
-📋 I've worked at GeeksforGeeks earlier.
+🔭 I’m currently working on My own portfolio
 
-🎒 I've done almost 2-3 internships primarily.
+🌱 I’m currently gaining skill on Javascript
 
-👩🏻‍🏫 I love teaching students and have mentored across 50+ students.
+👨‍💻 All of my projects are available at https://github.com/aFarhin
 
-🧭 I love exploring and working both in frontend and backend.
+💬 Ask me about HTML,CSS, Bootstrap, Javascript
 
-🎭 I love speaking at events and connecting with people.
+📫 How to reach me ahmeda.farhin28@gmail.com
+
+⚡ Fun fact: I am a creative person, who loves painting, photography, videography
+
+Connect with me:
+https://www.linkedin.com/in/ahmeda-f-772002204/ far___hin
+
+Languages and Tools:
+bootstrap css3 html5 java javascript
