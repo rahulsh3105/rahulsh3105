@@ -6,7 +6,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rahulsh3105/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-  <a href="https://stackoverflow.com/users/youruserid/rahul-sharma"><img src="https://img.shields.io/badge/-Stack%20Overflow-orange?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a> &nbsp;
+  <a href="https://stackoverflow.com/users/20884535/rahul-sharma"><img src="https://img.shields.io/badge/-Stack%20Overflow-orange?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a> &nbsp;
   <a href="https://www.instagram.com/__rahu.lllllll/"><img src="https://img.shields.io/badge/-Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;
   <a href="https://twitter.com/arnav1672/"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 </div>
