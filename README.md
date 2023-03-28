@@ -66,3 +66,16 @@ My name is Rahul Sharma and I'm a software developer passionate about building i
 [![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulsh3105)](https://github.com/rahulsh3105)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsh3105&layout=compact)](https://github.com/rahulsh3105)
+
+## Highlights
+
+- Created a popular open source library with over 1,000 stars on GitHub
+- Contributed to several high-profile open source projects, including React and Node.js
+- Presented at multiple tech conferences on topics related to web development
+
+## Achievements
+
+- 2021 GitHub Arctic Code Vault Contributor
+- Winner of the 2020 Webby Award for Best Personal Website
+- Named one of the Top 30 Under 30 in Technology by Forbes Magazine
+
