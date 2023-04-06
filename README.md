@@ -13,6 +13,16 @@
 
 <br>
 
+<div id="badges" align="center">
+  
+  [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-brightgreen?style=flat&logo=geeksforgeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/yourusername/profile)](https://auth.geeksforgeeks.org/user/rahulsh3105/profile)
+  [![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/yourusername)](https://www.hackerrank.com/rahulsh3105)
+  [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/yourusername/)](https://leetcode.com/rahulsh3105/)
+
+ </div>
+
+<br>
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rahulsh3105&color=brightgreen)
