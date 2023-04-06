@@ -7,6 +7,8 @@
 
 My name is Rahul Sharma and I'm a software developer passionate about building innovative solutions. Here you will find some of my projects that showcase my skills and expertise.
 
+- 👨‍💻 All of my projects are available at &nbsp;[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/rahulsh3105?tab=repositories)
+
 <hr>
 
 <div id="header" align="center">
@@ -39,12 +41,6 @@ My name is Rahul Sharma and I'm a software developer passionate about building i
 </div>
 
 <hr>
-
-<br>
-
-- 👨‍💻 All of my projects are available at &nbsp;[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/rahulsh3105)
-
-<br>
 
 ## 🔭 I'm currently working on
 
