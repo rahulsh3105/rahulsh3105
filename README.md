@@ -44,7 +44,6 @@ My name is Rahul Sharma and I'm a software developer passionate about building i
 
 - My new projects
 - My CSS skill
-<br>
 
 ## 🌱 I'm currently learning
 
