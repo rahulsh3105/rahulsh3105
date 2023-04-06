@@ -30,8 +30,6 @@ My name is Rahul Sharma and I'm a software developer passionate about building i
 
  </div>
 
-<br>
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rahulsh3105&color=brightgreen)
