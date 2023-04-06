@@ -1,4 +1,13 @@
-<h1 align="center">Rahul Sharma's GitHub</h1>
+<h1 align="center">Overview</h1>
+
+<h1 align="center">
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+My name is Rahul Sharma and I'm a software developer passionate about building innovative solutions. Here you will find some of my projects that showcase my skills and expertise.
+
+<hr>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -29,14 +38,12 @@
 
 </div>
 
-<h1 align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<hr>
 
-My name is Rahul Sharma and I'm a software developer passionate about building innovative solutions. Here you will find some of my projects that showcase my skills and expertise.
 <br>
+
 - 👨‍💻 All of my projects are available at &nbsp;[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/rahulsh3105)
+
 <br>
 
 ## 🔭 I'm currently working on
