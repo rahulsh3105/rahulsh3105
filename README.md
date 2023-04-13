@@ -13,11 +13,13 @@ My name is Rahul Sharma and I'm a software developer passionate about building i
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<br>
+
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rahulsh3105/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-  <a href="https://stackoverflow.com/users/20884535/rahul-sharma"><img src="https://img.shields.io/badge/-Stack%20Overflow-orange?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a> &nbsp;
-  <a href="https://www.instagram.com/__rahu.lllllll/"><img src="https://img.shields.io/badge/-Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;
-  <a href="https://twitter.com/arnav1672/"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/rahulsh3105/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/arnav1672/"><img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://stackoverflow.com/users/20884535/rahul-sharma"><img src="https://img.shields.io/badge/-Stack%20Overflow-orange?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"></a>
 </div>
 
 <br>
@@ -40,30 +42,13 @@ My name is Rahul Sharma and I'm a software developer passionate about building i
 
 ## 🔭 I'm currently working on
 
-- My new projects
-- My CSS skill
+- New projects
+- CSS skill
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
+- 📱 React JS
 - Styled Components  
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
 
 ---
 
