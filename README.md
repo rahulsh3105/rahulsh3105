@@ -54,9 +54,10 @@ My name is Rahul Sharma and I'm a software developer passionate about building i
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rahulsh3105&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulsh3105&show_icons=true&locale=en&layout=compact" alt="rahulsh3105"/>
+</p>
 
-[![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahulsh3105)](https://github.com/rahulsh3105)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulsh3105&show_icons=true&locale=en" alt="rahulsh3105" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsh3105&layout=compact)](https://github.com/rahulsh3105)
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsh3105&" alt="rahulsh3105" /></p>
