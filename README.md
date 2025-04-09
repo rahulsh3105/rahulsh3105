@@ -59,5 +59,3 @@ My name is Rahul Sharma and I'm a software developer passionate about building i
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulsh3105&show_icons=true&locale=en" alt="rahulsh3105"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulsh3105&" alt="rahulsh3105"/></p>
